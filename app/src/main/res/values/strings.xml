@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">AuthenticatioWithAddData</string>
+    <string name="e_mail">E-Mail</string>
+    <string name="password">Password</string>
+    <string name="log_in">Log In</string>
+    <string name="create_new">Create New</string>
+    <string name="push_notification">Push Notification</string>
+    <string name="hello">Hello</string>
+    <string name="its_me">Its Me</string>
+</resources>
